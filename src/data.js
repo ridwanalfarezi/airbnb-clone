@@ -12,7 +12,6 @@ export default [
     },
     location: "USA",
     openSpots: 0,
-    status: "online",
   },
   {
     id: 2,
@@ -27,7 +26,6 @@ export default [
     },
     location: "Canada",
     openSpots: 27,
-    status: "sold out",
   },
   {
     id: 3,
@@ -42,6 +40,5 @@ export default [
     },
     location: "Norway",
     openSpots: 3,
-    status: "online",
   },
 ];
